@@ -15,7 +15,7 @@
 
 ***
 
-# [pull request](https://github.com/EmadIdris/basic-auth/pull/2)
+# [pull request](https://github.com/EmadIdris/basic-auth/pull/3)
 
 # UML
 ![](./lab6.png)
